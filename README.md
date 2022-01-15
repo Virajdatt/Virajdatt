@@ -1,6 +1,6 @@
 ## :wave:	 Hello it's Virajdatt here!!
 ## Upcoming Data professional, seeking internships.
-<img src="https://github.com/Virajdatt/Virajdatt/blob/main/penn_logo.png" width="120" height="80">
+Student @ <img src="https://github.com/Virajdatt/Virajdatt/blob/main/penn_logo.png" width="120" height="80">
 
 ## This is what I do often here:
 1. Build and publish Machine learning/ Deep learning models for (hackathons/ my passion projects/)
