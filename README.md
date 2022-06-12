@@ -5,7 +5,7 @@ Graduate Student @ </br><img src="https://github.com/Virajdatt/Virajdatt/blob/ma
 ## Research intrests and working with:
 1. Machine Learning and Deep Learning in distributed environment a.k.a Federated Learning.
 2. NLP with Transformers.
-3. Computer Vision for various domains.
+3. Machine Learning Enginerring Platform (MLOps)
 
 ## This is what I do often here on github:
 1. Build and publish Machine learning/ Deep learning models for (hackathons/ my passion projects/) with comments and report my findings.
