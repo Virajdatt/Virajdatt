@@ -1,5 +1,5 @@
 ## :wave:	 Hello it's Virajdatt here!!
-## Upcoming Data professional, seeking internships.
+## Upcoming Data professional.
 Graduate Student @ </br><img src="https://github.com/Virajdatt/Virajdatt/blob/main/penn_logo.png" width="120" height="80">
 
 ## Research intrests and working with:
