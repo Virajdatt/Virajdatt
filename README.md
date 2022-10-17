@@ -7,12 +7,17 @@ I passionately study and work on the entire machine learning lifecycle starting 
 ## Skills I possess and work on continousily:
 
 **Python**: pandas, sklearn, nltk, huggig face, tensorflow, tensorboard, beautiful soup, pytest
+
 **SQL**   : MySQL, MS-SQL SERVER, POSTGRES
+
 **NoSQL** : mongoDB
+
 **Tools** : Airflow, Kafka, Comet-ML, MLFLOW, 
 
 **Data Visuzalization**: Tabeleu, matplotlib, seaborn, 
+
 **Cloud Tech**: Azure, AWS and GCP 
+
 **Statistics**: Hypothesis testing, A/B Testing, Probablity
 
 # Projects here on github
