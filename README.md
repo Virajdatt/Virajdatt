@@ -2,7 +2,18 @@
 
 Graduate Student @ </br><img src="https://github.com/Virajdatt/Virajdatt/blob/main/penn_logo.png" width="120" height="80">
 
-I passionately study and work on the entire machine learning lifecycle starting from data acquistaion to deployment and monitoring of the model. I have spent quality time on my projects in cleaning data, wranginling data, creating visuals and communicating the insights as a story easy to follow. Demonstrated experience completing data science projects and deploying machine learning models. I also have extensive expereince in building CI/CD and data pipelines with tools like AirFlow, Terraform, Docker, Kubernetes.
+I passionately study and work on the entire machine learning lifecycle starting from data acquistaion to deployment and monitoring of the model. I have spent quality time on my projects in cleaning data, wranginling data, creating visuals and communicating the insights as a story easy to follow. Demonstrated experience completing data science projects and deploying machine learning models (Azure, GCP, AWS). I also have extensive expereince in building CI/CD and data pipelines with tools like AirFlow, Kafka, Terraform, Docker, Kubernetes. I belive in making my data science work better by combining my software enginnering skills (DS, Algos, Unit and Integration Tests). 
+
+## Skills I possess and work on continousily:
+
+**Python**: pandas, sklearn, nltk, huggig face, tensorflow, tensorboard, beautiful soup, pytest
+**SQL**   : MySQL, MS-SQL SERVER, POSTGRES
+**NoSQL** : mongoDB
+**Tools** : Airflow, Kafka, Comet-ML, MLFLOW, 
+
+**Data Visuzalization**: Tabeleu, matplotlib, seaborn, 
+**Cloud Tech**: Azure, AWS and GCP 
+**Statistics**: Hypothesis testing, A/B Testing, Probablity
 
 # Projects here on github
 
